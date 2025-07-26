@@ -1,2 +1,2 @@
-# Enter-Week-1
+# ghg project
 week 1 project submission
